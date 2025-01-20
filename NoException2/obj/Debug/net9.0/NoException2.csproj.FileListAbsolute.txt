@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/bin/Debug/net9.0/NoException2
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/bin/Debug/net9.0/NoException2.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/bin/Debug/net9.0/NoException2.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/bin/Debug/net9.0/NoException2.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/bin/Debug/net9.0/NoException2.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/refint/NoException2.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/NoException2.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/NoException2/obj/Debug/net9.0/ref/NoException2.dll
