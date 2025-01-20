@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/bin/Debug/net9.0/mathMagic
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/bin/Debug/net9.0/mathMagic.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/bin/Debug/net9.0/mathMagic.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/bin/Debug/net9.0/mathMagic.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/bin/Debug/net9.0/mathMagic.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/refint/mathMagic.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/mathMagic.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/mathMagic/obj/Debug/net9.0/ref/mathMagic.dll
