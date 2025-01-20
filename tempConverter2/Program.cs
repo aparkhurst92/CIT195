@@ -93,8 +93,8 @@ namespace tempConverter
 {
     try
         {
-            dblCelsius = (dblNumToConvert - 32) * 5 / 9;  // Assign the value to the ref parameter
-            dblFahrenheit = (dblNumToConvert * 9 / 5) + 32;  // Assign the value to the ref parameter
+            dblCelsius = (dblNumToConvert - 32) * 5 / 9;  
+            dblFahrenheit = (dblNumToConvert * 9 / 5) + 32;  
         }
     catch (ArithmeticException e)
         {
