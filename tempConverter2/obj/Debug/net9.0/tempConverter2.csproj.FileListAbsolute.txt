@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/bin/Debug/net9.0/tempConverter2
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/bin/Debug/net9.0/tempConverter2.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/bin/Debug/net9.0/tempConverter2.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/bin/Debug/net9.0/tempConverter2.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/bin/Debug/net9.0/tempConverter2.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/refint/tempConverter2.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/tempConverter2.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/tempConverter2/obj/Debug/net9.0/ref/tempConverter2.dll

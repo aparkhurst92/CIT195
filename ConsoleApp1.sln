@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathMagic", "mathMagic\math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempConverter", "tempConverter\tempConverter.csproj", "{4D56796D-450A-469C-A1E0-581EADD5D000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempConverter2", "tempConverter2\tempConverter2.csproj", "{C8E96F14-B3AE-4D92-A5A6-A4818E595072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{4D56796D-450A-469C-A1E0-581EADD5D000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D56796D-450A-469C-A1E0-581EADD5D000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D56796D-450A-469C-A1E0-581EADD5D000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E96F14-B3AE-4D92-A5A6-A4818E595072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E96F14-B3AE-4D92-A5A6-A4818E595072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E96F14-B3AE-4D92-A5A6-A4818E595072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E96F14-B3AE-4D92-A5A6-A4818E595072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
