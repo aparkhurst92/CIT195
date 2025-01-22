@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/bin/Debug/net9.0/myProject
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/bin/Debug/net9.0/myProject.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/bin/Debug/net9.0/myProject.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/bin/Debug/net9.0/myProject.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/bin/Debug/net9.0/myProject.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/refint/myProject.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/myProject.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myProject/obj/Debug/net9.0/ref/myProject.dll
