@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/refint/bookStoreWithCount.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStoreWithCount/obj/Debug/net9.0/ref/bookStoreWithCount.dll
