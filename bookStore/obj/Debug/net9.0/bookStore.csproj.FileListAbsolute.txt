@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/bin/Debug/net9.0/bookStore
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/bin/Debug/net9.0/bookStore.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/bin/Debug/net9.0/bookStore.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/bin/Debug/net9.0/bookStore.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/bin/Debug/net9.0/bookStore.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/refint/bookStore.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/bookStore.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/bookStore/obj/Debug/net9.0/ref/bookStore.dll
