@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/refint/FunWithMusic.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/FunWithMusic/obj/Debug/net9.0/ref/FunWithMusic.dll
