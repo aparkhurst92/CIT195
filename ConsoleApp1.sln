@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithMusic", "FunWithMusi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicArray", "MusicArray\MusicArray.csproj", "{A920136E-A808-4663-B80C-D0AAE201115C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myParams", "myParams\myParams.csproj", "{6F6F86C2-D006-48D8-BAFB-64755BDE8CDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{A920136E-A808-4663-B80C-D0AAE201115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A920136E-A808-4663-B80C-D0AAE201115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A920136E-A808-4663-B80C-D0AAE201115C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6F86C2-D006-48D8-BAFB-64755BDE8CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6F86C2-D006-48D8-BAFB-64755BDE8CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6F86C2-D006-48D8-BAFB-64755BDE8CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6F86C2-D006-48D8-BAFB-64755BDE8CDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

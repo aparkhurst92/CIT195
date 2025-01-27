@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/bin/Debug/net9.0/myParams
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/bin/Debug/net9.0/myParams.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/bin/Debug/net9.0/myParams.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/bin/Debug/net9.0/myParams.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/bin/Debug/net9.0/myParams.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/refint/myParams.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/myParams.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/myParams/obj/Debug/net9.0/ref/myParams.dll

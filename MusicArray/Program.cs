@@ -6,45 +6,45 @@ namespace FunWithMusic
     {
         enum Genre
         {
-            HipHop,
-            Rock,
-            Metal,
-            Rap,
-            Electronic
+        HipHop,
+        Rock,
+        Metal,
+        Rap,
+        Electronic
         }
 
         struct Music
         {
-            private string _Title;
-            private string _Artist;
-            private string _Album;
-            private double _Length;
-            private Genre? _Genre;
+        private string _Title;
+        private string _Artist;
+        private string _Album;
+        private double _Length;
+        private Genre? _Genre;
 
-            public Music(string title, string artist, string album, double length, Genre genre)
+        public Music(string title, string artist, string album, double length, Genre genre)
             {
-                _Title = title;
-                _Artist = artist;
-                _Album = album;
-                _Length = length;
-                _Genre = genre;
+            _Title = title;
+            _Artist = artist;
+            _Album = album;
+            _Length = length;
+            _Genre = genre;
             }
 
             public void setTitle(string title)
             {
-                _Title = title;
+            _Title = title;
             }
 
             public void setLength(double length)
             {
-                _Length = length;
+            _Length = length;
             }
 
             public string Display()
             {
                 return "Title: " + _Title + "\nArtist: " + _Artist +
-                       "\nAlbum: " + _Album + "\nLength: " + _Length + " minutes" +
-                       "\nGenre: " + _Genre;
+                "\nAlbum: " + _Album + "\nLength: " + _Length + " minutes" +
+                "\nGenre: " + _Genre;
             }
         }
 
@@ -75,30 +75,30 @@ namespace FunWithMusic
                     Genre tempGenre = Genre.HipHop;
                     char genreInput = char.ToUpper(char.Parse(Console.ReadLine()));
 
-                    switch (genreInput)
+            switch (genreInput)
                     {
-                        case 'H':
+                    case 'H':
                             tempGenre = Genre.HipHop;
                             break;
-                        case 'R':
+                    case 'R':
                             tempGenre = Genre.Rock;
                             break;
-                        case 'M':
+                    case 'M':
                             tempGenre = Genre.Metal;
                             break;
-                        case 'P':
+                    case 'P':
                             tempGenre = Genre.Rap;
                             break;
-                        case 'E':
+                    case 'E':
                             tempGenre = Genre.Electronic;
                             break;
-                        default:
+                    default:
                             Console.WriteLine("Invalid genre. Defaulting to HipHop.");
                             break;
                     }
 
-                    Music music = new Music(tempTitle, tempArtist, tempAlbum, tempLength, tempGenre);
-                    collection[i] = music;
+            Music music = new Music(tempTitle, tempArtist, tempAlbum, tempLength, tempGenre);
+            collection[i] = music;
 
                     Music newMusic = music;
                     newMusic.setTitle("Overdrive");
@@ -109,20 +109,20 @@ namespace FunWithMusic
                     Console.WriteLine($"{music.Display()}");
                 }
             }
-            catch (ArgumentException e)
+        catch (ArgumentException e)
             {
                 Console.WriteLine($"Argument error: {e.Message}");
             }
-            catch (FormatException e)
+        catch (FormatException e)
             {
                 Console.WriteLine($"Format error: {e.Message}");
             }
-            catch (Exception e)
+        catch (Exception e)
             {
                 Console.WriteLine($"General error: {e.Message}");
             }
 
-            for (int i = 0; i < collection.Length; i++)
+        for (int i = 0; i < collection.Length; i++)
             {
                 Console.WriteLine($"{collection[i].Display()}");
             }
