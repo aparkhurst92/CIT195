@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/refint/AnimalInheritance.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AnimalInheritance/obj/Debug/net9.0/ref/AnimalInheritance.dll
