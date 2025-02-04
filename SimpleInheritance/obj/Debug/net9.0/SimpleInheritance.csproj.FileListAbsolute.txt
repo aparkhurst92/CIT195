@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/bin/Debug/net9.0/SimpleInheritance
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/bin/Debug/net9.0/SimpleInheritance.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/bin/Debug/net9.0/SimpleInheritance.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/bin/Debug/net9.0/SimpleInheritance.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/bin/Debug/net9.0/SimpleInheritance.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/refint/SimpleInheritance.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/SimpleInheritance.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SimpleInheritance/obj/Debug/net9.0/ref/SimpleInheritance.dll

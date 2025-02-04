@@ -11,7 +11,7 @@ class Program
 
         for (int i = 0; i < size; i++)
         {
-            collection[i] = r.Next(1,1000);
+            collection[i] = r.Next(1,10000);
         }
 
         Console.WriteLine("The numbers produced:");
