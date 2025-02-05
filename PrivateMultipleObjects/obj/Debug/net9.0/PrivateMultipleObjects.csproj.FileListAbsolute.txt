@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/refint/PrivateMultipleObjects.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/ref/PrivateMultipleObjects.dll
