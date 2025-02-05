@@ -6,15 +6,15 @@ using System.Transactions;
 
 namespace Inheritance
 {
-    //Base Class
+    // Base Class
     class Customer
     {
-        private int _Id;
-        private string _FirstName;
-        private string _LastName;
-        private int _Age;
+        protected int _Id;
+        protected string _FirstName;
+        protected string _LastName;
+        protected int _Age;
 
-        // default constructor
+        // Default constructor
         public Customer()
         {
             _Id = 0;
@@ -22,7 +22,8 @@ namespace Inheritance
             _LastName = string.Empty;
             _Age = 0;
         }
-        //parameterized constructor
+
+        // Parameterized constructor
         public Customer(int id, string firstName, string lastName, int age)
         {
             _Id = id;
@@ -30,70 +31,62 @@ namespace Inheritance
             _LastName = lastName;
             _Age = age;
         }
-        // Get and Set Methods
-        public int getID() { return _Id; }
-        public string getFirstName() { return _FirstName; }
-        public string getLastName() { return _LastName; }
-        public int getAge() { return _Age; }
-        public void setID(int id) { _Id = id; }
-        public void setFirstName(string firstName) { _FirstName = firstName; }
-        public void setLastName(string lastName) { _LastName = lastName; }
-        public void setAge(int age) { _Age = age; }
 
         public virtual void addChange()
         {
             Console.Write("ID=");
-            setID(int.Parse(Console.ReadLine()));
+            _Id = int.Parse(Console.ReadLine());
             Console.Write("First Name=");
-            setFirstName(Console.ReadLine());
+            _FirstName = Console.ReadLine();
             Console.Write("Last Name=");
-            setLastName(Console.ReadLine());
+            _LastName = Console.ReadLine();
             Console.Write("Age=");
-            setAge(int.Parse(Console.ReadLine()));
+            _Age = int.Parse(Console.ReadLine());
         }
+
         public virtual void print()
         {
             Console.WriteLine();
-            Console.WriteLine($" ID: {getID()}");
-            Console.WriteLine($" Name: {getFirstName()} {getLastName()}");
-            Console.WriteLine($" Age: {getAge()}");
+            Console.WriteLine($"      ID: {_Id}");
+            Console.WriteLine($"    Name: {_FirstName} {_LastName}");
+            Console.WriteLine($"     Age: {_Age}");
         }
     }
 
     class PremiumCustomer : Customer
     {
-        private double _Salary;
-        private string _Location;
+        protected double _Salary;
+        protected string _Location;
 
-        public PremiumCustomer()
-            : base()
+        // Default constructor
+        public PremiumCustomer() : base()
         {
-            _Location = string.Empty;
             _Salary = 0;
+            _Location = string.Empty;
         }
-        public PremiumCustomer(int id, string firstname, string lastname, int age, double salary, string location)
-            : base(id, firstname, lastname, age)
+
+        // Parameterized constructor
+        public PremiumCustomer(int id, string firstName, string lastName, int age, double salary, string location)
+            : base(id, firstName, lastName, age)
         {
             _Salary = salary;
             _Location = location;
         }
-        public void setSalary(double salary) { _Salary = salary; }
-        public void setLocation(string location) { _Location = location; }
-        public double getSalary() { return _Salary; }
-        public string getLocation() { return _Location; }
+
         public override void addChange()
         {
             base.addChange();
             Console.Write("Salary=");
-            setSalary(double.Parse(Console.ReadLine()));
+            _Salary = double.Parse(Console.ReadLine());
             Console.Write("Location=");
-            setLocation(Console.ReadLine());
+            _Location = Console.ReadLine();
         }
+
         public override void print()
         {
             base.print();
-            Console.WriteLine($"  Salary: {getSalary()}");
-            Console.WriteLine($"Location: {getLocation()}");
+            Console.WriteLine($"  Salary: {_Salary}");
+            Console.WriteLine($"Location: {_Location}");
             Console.WriteLine();
         }
     }
@@ -106,30 +99,34 @@ namespace Inheritance
             int maxCustomers;
             while (!int.TryParse(Console.ReadLine(), out maxCustomers))
                 Console.WriteLine("Please enter a whole number");
-            // array 
+
+            // Array of Customer objects
             Customer[] customers = new Customer[maxCustomers];
 
             Console.WriteLine("How many Premium Customers do you want to enter?");
             int maxPremium;
             while (!int.TryParse(Console.ReadLine(), out maxPremium))
                 Console.WriteLine("Please enter a whole number");
-            // array 
+
+            // Array of PremiumCustomer objects
             PremiumCustomer[] premiumCustomers = new PremiumCustomer[maxPremium];
 
             int choice, rec, type;
             int custCounter = 0, premCounter = 0;
             choice = Menu();
+
             while (choice != 4)
             {
                 Console.WriteLine("Enter 1 for Premium Customer or 2 for Regular Customer");
                 while (!int.TryParse(Console.ReadLine(), out type))
                     Console.WriteLine("1 for Premium Customer or 2 for Regular Customer");
+
                 try
                 {
                     switch (choice)
                     {
                         case 1: // Add
-                            if (type == 1)
+                            if (type == 1) // Premium Customer
                             {
                                 if (premCounter < maxPremium)
                                 {
@@ -138,7 +135,7 @@ namespace Inheritance
                                     premCounter++;
                                 }
                                 else
-                                    Console.WriteLine("The maximum number of premium customers has been added");
+                                    Console.WriteLine("The maximum number of premium customers has been added.");
                             }
                             else // Regular Customer
                             {
@@ -149,15 +146,17 @@ namespace Inheritance
                                     custCounter++;
                                 }
                                 else
-                                    Console.WriteLine("The maximum number of customers has been added");
+                                    Console.WriteLine("The maximum number of customers has been added.");
                             }
                             break;
-                        case 2: //Change
+
+                        case 2: // Change
                             Console.Write("Enter the record number you want to change: ");
                             while (!int.TryParse(Console.ReadLine(), out rec))
                                 Console.Write("Enter the record number you want to change: ");
-                            rec--; 
-                            if (type == 1) // PremiumCustomer
+                            rec--;  // Subtract 1 because array index begins at 0
+
+                            if (type == 1) // Premium Customer
                             {
                                 while (rec >= premCounter || rec < 0)
                                 {
@@ -180,20 +179,22 @@ namespace Inheritance
                                 customers[rec].addChange();
                             }
                             break;
+
                         case 3: // Print All
-                            if (type == 1) // PremiumCustomer
+                            if (type == 1) // Premium Customers
                             {
                                 for (int i = 0; i < premCounter; i++)
                                     premiumCustomers[i].print();
                             }
-                            else // Regular Customer
+                            else // Regular Customers
                             {
                                 for (int i = 0; i < custCounter; i++)
                                     customers[i].print();
                             }
                             break;
+
                         default:
-                            Console.WriteLine("You made an invalid selection, please try again");
+                            Console.WriteLine("You made an invalid selection, please try again.");
                             break;
                     }
                 }
@@ -225,4 +226,5 @@ namespace Inheritance
         }
     }
 }
+
 

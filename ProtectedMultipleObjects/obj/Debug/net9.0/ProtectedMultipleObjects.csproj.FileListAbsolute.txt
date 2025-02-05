@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/bin/Debug/net9.0/ProtectedMultipleObjects
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/bin/Debug/net9.0/ProtectedMultipleObjects.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/bin/Debug/net9.0/ProtectedMultipleObjects.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/bin/Debug/net9.0/ProtectedMultipleObjects.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/bin/Debug/net9.0/ProtectedMultipleObjects.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/refint/ProtectedMultipleObjects.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ProtectedMultipleObjects.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ProtectedMultipleObjects/obj/Debug/net9.0/ref/ProtectedMultipleObjects.dll
