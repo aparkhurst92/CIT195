@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateMultipleObjects", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedMultipleObjects", "ProtectedMultipleObjects\ProtectedMultipleObjects.csproj", "{10773CA9-57F6-42DA-A38D-1D82D79C655D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubInterface", "ClubInterface\ClubInterface.csproj", "{668C7AB6-C74E-4369-BDD3-144F8E26BD36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{10773CA9-57F6-42DA-A38D-1D82D79C655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10773CA9-57F6-42DA-A38D-1D82D79C655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10773CA9-57F6-42DA-A38D-1D82D79C655D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668C7AB6-C74E-4369-BDD3-144F8E26BD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668C7AB6-C74E-4369-BDD3-144F8E26BD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668C7AB6-C74E-4369-BDD3-144F8E26BD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668C7AB6-C74E-4369-BDD3-144F8E26BD36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

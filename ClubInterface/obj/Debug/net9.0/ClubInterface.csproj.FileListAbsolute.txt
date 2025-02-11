@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/refint/ClubInterface.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ClubInterface/obj/Debug/net9.0/ref/ClubInterface.dll
