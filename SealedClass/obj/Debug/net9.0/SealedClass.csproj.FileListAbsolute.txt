@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/bin/Debug/net9.0/SealedClass
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/bin/Debug/net9.0/SealedClass.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/bin/Debug/net9.0/SealedClass.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/bin/Debug/net9.0/SealedClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/bin/Debug/net9.0/SealedClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/refint/SealedClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/SealedClass.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/SealedClass/obj/Debug/net9.0/ref/SealedClass.dll
