@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/refint/AbstractAnimalClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractAnimalClass/obj/Debug/net9.0/ref/AbstractAnimalClass.dll

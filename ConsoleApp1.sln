@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubInterface", "ClubInterf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClass", "SealedClass\SealedClass.csproj", "{40877346-218B-4FFD-A1DA-07F56975C18E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractAnimalClass", "AbstractAnimalClass\AbstractAnimalClass.csproj", "{7119987B-CFE6-4C10-862B-BFBC45B9D2CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{40877346-218B-4FFD-A1DA-07F56975C18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40877346-218B-4FFD-A1DA-07F56975C18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40877346-218B-4FFD-A1DA-07F56975C18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7119987B-CFE6-4C10-862B-BFBC45B9D2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7119987B-CFE6-4C10-862B-BFBC45B9D2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7119987B-CFE6-4C10-862B-BFBC45B9D2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7119987B-CFE6-4C10-862B-BFBC45B9D2CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
