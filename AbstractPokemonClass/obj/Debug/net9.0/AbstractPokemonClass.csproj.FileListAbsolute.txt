@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/bin/Debug/net9.0/AbstractPokemonClass
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/bin/Debug/net9.0/AbstractPokemonClass.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/bin/Debug/net9.0/AbstractPokemonClass.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/bin/Debug/net9.0/AbstractPokemonClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/bin/Debug/net9.0/AbstractPokemonClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/refint/AbstractPokemonClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/AbstractPokemonClass.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/AbstractPokemonClass/obj/Debug/net9.0/ref/AbstractPokemonClass.dll
