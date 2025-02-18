@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/bin/Debug/net9.0/UsingCollections
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/bin/Debug/net9.0/UsingCollections.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/bin/Debug/net9.0/UsingCollections.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/bin/Debug/net9.0/UsingCollections.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/bin/Debug/net9.0/UsingCollections.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/refint/UsingCollections.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/UsingCollections.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/UsingCollections/obj/Debug/net9.0/ref/UsingCollections.dll

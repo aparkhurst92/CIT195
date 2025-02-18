@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractAnimalClass", "Abst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractPokemonClass", "AbstractPokemonClass\AbstractPokemonClass.csproj", "{3DB8CE9D-300F-46AA-8F58-27C0EBAABA4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCollections", "UsingCollections\UsingCollections.csproj", "{963B6AE8-6366-46B1-9B94-852B424FD26D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{3DB8CE9D-300F-46AA-8F58-27C0EBAABA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB8CE9D-300F-46AA-8F58-27C0EBAABA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB8CE9D-300F-46AA-8F58-27C0EBAABA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963B6AE8-6366-46B1-9B94-852B424FD26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963B6AE8-6366-46B1-9B94-852B424FD26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963B6AE8-6366-46B1-9B94-852B424FD26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963B6AE8-6366-46B1-9B94-852B424FD26D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
