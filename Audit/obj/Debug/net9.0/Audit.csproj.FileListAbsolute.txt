@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/bin/Debug/net9.0/Audit
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/bin/Debug/net9.0/Audit.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/bin/Debug/net9.0/Audit.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/bin/Debug/net9.0/Audit.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/bin/Debug/net9.0/Audit.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/refint/Audit.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/Audit.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/Audit/obj/Debug/net9.0/ref/Audit.dll
