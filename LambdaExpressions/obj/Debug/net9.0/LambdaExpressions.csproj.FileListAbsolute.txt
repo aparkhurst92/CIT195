@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/bin/Debug/net9.0/LambdaExpressions
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/bin/Debug/net9.0/LambdaExpressions.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/bin/Debug/net9.0/LambdaExpressions.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/bin/Debug/net9.0/LambdaExpressions.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/bin/Debug/net9.0/LambdaExpressions.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/refint/LambdaExpressions.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/LambdaExpressions.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LambdaExpressions/obj/Debug/net9.0/ref/LambdaExpressions.dll
