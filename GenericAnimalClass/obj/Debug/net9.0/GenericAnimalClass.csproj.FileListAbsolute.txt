@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/bin/Debug/net9.0/GenericAnimalClass
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/bin/Debug/net9.0/GenericAnimalClass.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/bin/Debug/net9.0/GenericAnimalClass.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/bin/Debug/net9.0/GenericAnimalClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/bin/Debug/net9.0/GenericAnimalClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/refint/GenericAnimalClass.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/GenericAnimalClass.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/GenericAnimalClass/obj/Debug/net9.0/ref/GenericAnimalClass.dll
