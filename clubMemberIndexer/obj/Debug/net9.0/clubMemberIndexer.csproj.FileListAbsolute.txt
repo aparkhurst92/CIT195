@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/bin/Debug/net9.0/clubMemberIndexer
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/bin/Debug/net9.0/clubMemberIndexer.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/bin/Debug/net9.0/clubMemberIndexer.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/bin/Debug/net9.0/clubMemberIndexer.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/bin/Debug/net9.0/clubMemberIndexer.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/refint/clubMemberIndexer.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/clubMemberIndexer.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/clubMemberIndexer/obj/Debug/net9.0/ref/clubMemberIndexer.dll
