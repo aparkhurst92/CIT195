@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "Lambda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audit", "Audit\Audit.csproj", "{B9024E2D-C2F5-47B7-9890-4D68976687E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookStoreRecord", "bookStoreRecord\bookStoreRecord.csproj", "{865F2856-DCCE-44BF-99F7-871AD8908951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{B9024E2D-C2F5-47B7-9890-4D68976687E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9024E2D-C2F5-47B7-9890-4D68976687E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9024E2D-C2F5-47B7-9890-4D68976687E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865F2856-DCCE-44BF-99F7-871AD8908951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865F2856-DCCE-44BF-99F7-871AD8908951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865F2856-DCCE-44BF-99F7-871AD8908951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865F2856-DCCE-44BF-99F7-871AD8908951}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
