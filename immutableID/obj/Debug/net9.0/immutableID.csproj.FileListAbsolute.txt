@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/bin/Debug/net9.0/immutableID
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/bin/Debug/net9.0/immutableID.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/bin/Debug/net9.0/immutableID.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/bin/Debug/net9.0/immutableID.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/bin/Debug/net9.0/immutableID.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/refint/immutableID.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/immutableID.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/immutableID/obj/Debug/net9.0/ref/immutableID.dll
