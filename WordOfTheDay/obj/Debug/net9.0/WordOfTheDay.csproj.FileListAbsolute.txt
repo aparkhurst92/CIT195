@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/bin/Debug/net9.0/WordOfTheDay
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/bin/Debug/net9.0/WordOfTheDay.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/bin/Debug/net9.0/WordOfTheDay.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/bin/Debug/net9.0/WordOfTheDay.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/bin/Debug/net9.0/WordOfTheDay.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/refint/WordOfTheDay.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/WordOfTheDay.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WordOfTheDay/obj/Debug/net9.0/ref/WordOfTheDay.dll

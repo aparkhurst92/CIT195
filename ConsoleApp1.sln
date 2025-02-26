@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clubMemberIndexer", "clubMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericAnimalClass", "GenericAnimalClass\GenericAnimalClass.csproj", "{85AB0C8A-3DC6-4945-A881-C318F6702F38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordOfTheDay", "WordOfTheDay\WordOfTheDay.csproj", "{9434524E-E9DE-4F8F-AE67-85CD2EDCD0B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +176,9 @@ Global
 		{85AB0C8A-3DC6-4945-A881-C318F6702F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85AB0C8A-3DC6-4945-A881-C318F6702F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85AB0C8A-3DC6-4945-A881-C318F6702F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9434524E-E9DE-4F8F-AE67-85CD2EDCD0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9434524E-E9DE-4F8F-AE67-85CD2EDCD0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9434524E-E9DE-4F8F-AE67-85CD2EDCD0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9434524E-E9DE-4F8F-AE67-85CD2EDCD0B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
