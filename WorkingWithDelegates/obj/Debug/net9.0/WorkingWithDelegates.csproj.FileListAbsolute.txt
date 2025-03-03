@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/bin/Debug/net9.0/WorkingWithDelegates
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/bin/Debug/net9.0/WorkingWithDelegates.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/bin/Debug/net9.0/WorkingWithDelegates.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/bin/Debug/net9.0/WorkingWithDelegates.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/bin/Debug/net9.0/WorkingWithDelegates.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/refint/WorkingWithDelegates.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/WorkingWithDelegates.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/WorkingWithDelegates/obj/Debug/net9.0/ref/WorkingWithDelegates.dll
