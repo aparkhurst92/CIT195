@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/bin/Debug/net9.0/DelegatesAndExamples
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/bin/Debug/net9.0/DelegatesAndExamples.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/bin/Debug/net9.0/DelegatesAndExamples.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/bin/Debug/net9.0/DelegatesAndExamples.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/bin/Debug/net9.0/DelegatesAndExamples.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/refint/DelegatesAndExamples.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/DelegatesAndExamples.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/DelegatesAndExamples/obj/Debug/net9.0/ref/DelegatesAndExamples.dll
