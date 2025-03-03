@@ -59,7 +59,7 @@ namespace WordOfTheDay
         static void AppendToFile()
         {
             string path = "Words.txt";
-            Console.Write("Enter the Word of the Day: ");
+            Console.Write("Enter the Word: ");
             string newString = Console.ReadLine();
             while (string.IsNullOrWhiteSpace(newString))
             {
@@ -72,7 +72,7 @@ namespace WordOfTheDay
             int counter = 1;
             do
             {
-                Console.Write("Enter a definition: ");
+                Console.Write("Enter a definition plz: ");
                 string tempString = Console.ReadLine();
                 while (string.IsNullOrWhiteSpace(tempString))
                 {
