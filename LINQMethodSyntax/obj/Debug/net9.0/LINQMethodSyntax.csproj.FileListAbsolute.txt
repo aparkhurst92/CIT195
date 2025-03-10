@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/bin/Debug/net9.0/LINQMethodSyntax
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/bin/Debug/net9.0/LINQMethodSyntax.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/bin/Debug/net9.0/LINQMethodSyntax.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/bin/Debug/net9.0/LINQMethodSyntax.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/bin/Debug/net9.0/LINQMethodSyntax.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/refint/LINQMethodSyntax.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/LINQMethodSyntax.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQMethodSyntax/obj/Debug/net9.0/ref/LINQMethodSyntax.dll
