@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/bin/Debug/net9.0/LINQQuerySyntax
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/bin/Debug/net9.0/LINQQuerySyntax.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/bin/Debug/net9.0/LINQQuerySyntax.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/bin/Debug/net9.0/LINQQuerySyntax.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/bin/Debug/net9.0/LINQQuerySyntax.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/refint/LINQQuerySyntax.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/LINQQuerySyntax.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/LINQQuerySyntax/obj/Debug/net9.0/ref/LINQQuerySyntax.dll
