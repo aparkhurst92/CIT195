@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/bin/Debug/net9.0/OperatorOverloadingTwo
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/bin/Debug/net9.0/OperatorOverloadingTwo.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/bin/Debug/net9.0/OperatorOverloadingTwo.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/bin/Debug/net9.0/OperatorOverloadingTwo.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/bin/Debug/net9.0/OperatorOverloadingTwo.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/refint/OperatorOverloadingTwo.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/OperatorOverloadingTwo.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloadingTwo/obj/Debug/net9.0/ref/OperatorOverloadingTwo.dll

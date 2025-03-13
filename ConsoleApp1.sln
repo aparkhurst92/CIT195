@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQMethodSyntax", "LINQMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{B599A9DD-435D-4E52-8F21-F0226F6B4409}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingOperatorPt2", "OverloadingOperatorPt2\OverloadingOperatorPt2.csproj", "{AD06326B-F19D-49E7-98F1-AAED28052679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingTwo", "OperatorOverloadingTwo\OperatorOverloadingTwo.csproj", "{DF34E170-2291-4416-B3C9-48CCBFC81930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,5 +232,13 @@ Global
 		{B599A9DD-435D-4E52-8F21-F0226F6B4409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B599A9DD-435D-4E52-8F21-F0226F6B4409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B599A9DD-435D-4E52-8F21-F0226F6B4409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD06326B-F19D-49E7-98F1-AAED28052679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD06326B-F19D-49E7-98F1-AAED28052679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD06326B-F19D-49E7-98F1-AAED28052679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD06326B-F19D-49E7-98F1-AAED28052679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF34E170-2291-4416-B3C9-48CCBFC81930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF34E170-2291-4416-B3C9-48CCBFC81930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF34E170-2291-4416-B3C9-48CCBFC81930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF34E170-2291-4416-B3C9-48CCBFC81930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
