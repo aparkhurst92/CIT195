@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/bin/Debug/net9.0/OperatorOverloading
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/bin/Debug/net9.0/OperatorOverloading.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/bin/Debug/net9.0/OperatorOverloading.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/bin/Debug/net9.0/OperatorOverloading.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/bin/Debug/net9.0/OperatorOverloading.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/refint/OperatorOverloading.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/OperatorOverloading.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/OperatorOverloading/obj/Debug/net9.0/ref/OperatorOverloading.dll

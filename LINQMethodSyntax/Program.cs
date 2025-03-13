@@ -24,86 +24,85 @@ class Program
     static void Main()
     {
         // Student collection
-        IList<Student> studentList = new List<Student>()
+        List<Student> studentList = new List<Student>()
         {
-            new Student() { StudentID = 1, StudentName = "Frank Furter", Age = 55, Major = "Hospitality", Tuition = 3500.00 },
-            new Student() { StudentID = 2, StudentName = "Gina Host", Age = 21, Major = "Hospitality", Tuition = 4500.00 },
-            new Student() { StudentID = 3, StudentName = "Cookie Crumb", Age = 21, Major = "CIT", Tuition = 2500.00 },
-            new Student() { StudentID = 4, StudentName = "Ima Script", Age = 48, Major = "CIT", Tuition = 5500.00 },
-            new Student() { StudentID = 5, StudentName = "Cora Coder", Age = 35, Major = "CIT", Tuition = 1500.00 },
-            new Student() { StudentID = 6, StudentName = "Ura Goodchild", Age = 40, Major = "Marketing", Tuition = 500.00 },
-            new Student() { StudentID = 7, StudentName = "Take Mewith", Age = 29, Major = "Aerospace Engineering", Tuition = 5500.00 }
+            new Student() { StudentID = 1, StudentName = "Frank Furter", Age = 55, Major="Hospitality", Tuition=3500.00 },
+            new Student() { StudentID = 2, StudentName = "Gina Host", Age = 21, Major="Hospitality", Tuition=4500.00 },
+            new Student() { StudentID = 3, StudentName = "Cookie Crumb", Age = 21, Major="CIT", Tuition=2500.00 },
+            new Student() { StudentID = 4, StudentName = "Ima Script", Age = 48, Major="CIT", Tuition=5500.00 },
+            new Student() { StudentID = 5, StudentName = "Cora Coder", Age = 35, Major="CIT", Tuition=1500.00 },
+            new Student() { StudentID = 6, StudentName = "Ura Goodchild", Age = 40, Major="Marketing", Tuition=500.00 },
+            new Student() { StudentID = 7, StudentName = "Take Mewith", Age = 29, Major="Aerospace Engineering", Tuition=5500.00 }
         };
 
-        // Student GPA collection
-        IList<StudentGPA> studentGPAList = new List<StudentGPA>()
+        // Student GPA Collection
+        List<StudentGPA> studentGPAList = new List<StudentGPA>()
         {
-            new StudentGPA() { StudentID = 1, GPA = 4.0 },
-            new StudentGPA() { StudentID = 2, GPA = 3.5 },
-            new StudentGPA() { StudentID = 3, GPA = 2.0 },
-            new StudentGPA() { StudentID = 4, GPA = 1.5 },
-            new StudentGPA() { StudentID = 5, GPA = 4.0 },
-            new StudentGPA() { StudentID = 6, GPA = 2.5 },
-            new StudentGPA() { StudentID = 7, GPA = 1.0 }
+            new StudentGPA() { StudentID = 1, GPA=4.0 },
+            new StudentGPA() { StudentID = 2, GPA=3.5 },
+            new StudentGPA() { StudentID = 3, GPA=2.0 },
+            new StudentGPA() { StudentID = 4, GPA=1.5 },
+            new StudentGPA() { StudentID = 5, GPA=4.0 },
+            new StudentGPA() { StudentID = 6, GPA=2.5 },
+            new StudentGPA() { StudentID = 7, GPA=1.0 }
         };
 
         // Club collection
-        IList<StudentClubs> studentClubList = new List<StudentClubs>()
+        List<StudentClubs> studentClubList = new List<StudentClubs>()
         {
-            new StudentClubs() { StudentID = 1, ClubName = "Photography" },
-            new StudentClubs() { StudentID = 1, ClubName = "Game" },
-            new StudentClubs() { StudentID = 2, ClubName = "Game" },
-            new StudentClubs() { StudentID = 5, ClubName = "Photography" },
-            new StudentClubs() { StudentID = 6, ClubName = "Game" },
-            new StudentClubs() { StudentID = 7, ClubName = "Photography" },
-            new StudentClubs() { StudentID = 3, ClubName = "PTK" }
+            new StudentClubs() { StudentID = 1, ClubName="Photography" },
+            new StudentClubs() { StudentID = 1, ClubName="Game" },
+            new StudentClubs() { StudentID = 2, ClubName="Game" },
+            new StudentClubs() { StudentID = 5, ClubName="Photography" },
+            new StudentClubs() { StudentID = 6, ClubName="Game" },
+            new StudentClubs() { StudentID = 7, ClubName="Photography" },
+            new StudentClubs() { StudentID = 3, ClubName="PTK" }
         };
 
-        var groupedByGPA = studentGPAList.GroupBy(s => s.GPA);
+        var gpaGroups = studentGPAList.GroupBy(g => g.GPA);
         Console.WriteLine("Grouped by GPA:");
-        foreach (var group in groupedByGPA)
+        foreach (var gpaGroup in gpaGroups)
         {
-            Console.WriteLine($"GPA: {group.Key}, IDs: {string.Join(", ", group.Select(s => s.StudentID))}");
+            Console.WriteLine($"GPA: {gpaGroup.Key}, IDs: {string.Join(", ", gpaGroup.Select(g => g.StudentID))}");
         }
 
-        var sortedByClub = studentClubList.OrderBy(s => s.ClubName).GroupBy(s => s.ClubName);
+        var clubsByName = studentClubList.GroupBy(c => c.ClubName);
         Console.WriteLine("\nSorted and Grouped by Club:");
-        foreach (var group in sortedByClub)
+        foreach (var clubGroup in clubsByName)
         {
-            Console.WriteLine($"Club: {group.Key}, IDs: {string.Join(", ", group.Select(s => s.StudentID))}");
+            Console.WriteLine($"Club: {clubGroup.Key}, IDs: {string.Join(", ", clubGroup.Select(c => c.StudentID))}");
         }
 
-        int count = studentGPAList.Count(s => s.GPA >= 2.5 && s.GPA <= 4.0);
-        Console.WriteLine($"\nCount of students with GPA between 2.5 and 4.0: {count}");
+        int countStudentsInGPARange = studentGPAList.Count(g => g.GPA >= 2.5 && g.GPA <= 4.0);
+        Console.WriteLine($"\nCount of students with GPA between 2.5 and 4.0: {countStudentsInGPARange}");
 
-        double avgTuition = studentList.Average(s => s.Tuition);
-        Console.WriteLine($"\nAverage Tuition: {avgTuition:C}");
+        double averageTuitionCost = studentList.Average(st => st.Tuition);
+        Console.WriteLine($"\nAvg Tuition: {averageTuitionCost:C}");
 
-        var highestPayer = studentList.OrderByDescending(s => s.Tuition).First();
-        Console.WriteLine($"\nHighest paying student: {highestPayer.StudentName}, Major: {highestPayer.Major}, Tuition: {highestPayer.Tuition:C}");
+        var topTuitionPayingStudent = studentList.OrderByDescending(st => st.Tuition).First();
+        Console.WriteLine($"\nHighest paying student: {topTuitionPayingStudent.StudentName}, Major: {topTuitionPayingStudent.Major}, Tuition: {topTuitionPayingStudent.Tuition:C}");
 
-        var studentsWithGPA = from student in studentList
-            join gpa in studentGPAList on student.StudentID equals gpa.StudentID
-            select new { student.StudentName, student.Major, gpa.GPA };
+        var studentsGpaDetails = from st in studentList
+        join sg in studentGPAList on st.StudentID equals sg.StudentID
+        select new { st.StudentName, st.Major, sg.GPA };
 
         Console.WriteLine("\nStudents with GPA:");
-        foreach (var student in studentsWithGPA)
+        foreach (var studentDetail in studentsGpaDetails)
         {
-            Console.WriteLine($"Name: {student.StudentName}, Major: {student.Major}, GPA: {student.GPA}");
+            Console.WriteLine($"Name: {studentDetail.StudentName}, Major: {studentDetail.Major}, GPA: {studentDetail.GPA}");
         }
 
-        var gameClubMembers = from student in studentList
-            join club in studentClubList on student.StudentID equals club.StudentID
-            where club.ClubName == "Game"
-            select student.StudentName;
+        var gameClubParticipantNames = from st in studentList
+        join cl in studentClubList on st.StudentID equals cl.StudentID
+        where cl.ClubName == "Game"
+        select st.StudentName;
 
         Console.WriteLine("\nGame Club Members:");
-        foreach (var student in gameClubMembers)
+        foreach (var gameMember in gameClubParticipantNames)
         {
-            Console.WriteLine(student);
+            Console.WriteLine(gameMember);
         }
     }
 }
-
 
 
