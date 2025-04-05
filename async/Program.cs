@@ -31,7 +31,7 @@ namespace Assignment10Ex4
                 GetDressed();
                 Console.WriteLine("Dressed and ready to go");
 
-                Drive drive = await DriveToWorkAsync(10); // Changed from DriveToWork to DriveToWorkAsync
+                Drive drive = await DriveToWorkAsync(10);
                 Console.WriteLine("Walking into work.");
 
                 Console.WriteLine("Ready to begin");
@@ -68,7 +68,7 @@ namespace Assignment10Ex4
 
         private static void GetDressed() => Console.WriteLine("Together and ready to go");
 
-        private static async Task<Drive> DriveToWorkAsync(int time) // Changed method name to DriveToWorkAsync
+        private static async Task<Drive> DriveToWorkAsync(int time)
         {
             Console.WriteLine("Starting the car...");
             for (int i = 0; i < time; i++)
