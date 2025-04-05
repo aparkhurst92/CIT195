@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/bin/Debug/net9.0/taskRace
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/bin/Debug/net9.0/taskRace.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/bin/Debug/net9.0/taskRace.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/bin/Debug/net9.0/taskRace.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/bin/Debug/net9.0/taskRace.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/refint/taskRace.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/taskRace.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/taskRace/obj/Debug/net9.0/ref/taskRace.dll
