@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading;
-
+﻿
 namespace threadRace
 {
     internal class Program
@@ -66,7 +64,6 @@ namespace threadRace
                 }
             });
 
-            // Assign AboveNormal priority to one thread
             t3.Priority = ThreadPriority.AboveNormal;
 
             // Start the threads
