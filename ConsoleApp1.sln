@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadRace", "ThreadRace\Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskRace", "taskRace\taskRace.csproj", "{E291BFB2-513C-4C23-941B-F6565E936883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async", "async\async.csproj", "{025175B6-B7DC-4C39-BCBB-0609B4DFE25B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -252,5 +254,9 @@ Global
 		{E291BFB2-513C-4C23-941B-F6565E936883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E291BFB2-513C-4C23-941B-F6565E936883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E291BFB2-513C-4C23-941B-F6565E936883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025175B6-B7DC-4C39-BCBB-0609B4DFE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025175B6-B7DC-4C39-BCBB-0609B4DFE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025175B6-B7DC-4C39-BCBB-0609B4DFE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025175B6-B7DC-4C39-BCBB-0609B4DFE25B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

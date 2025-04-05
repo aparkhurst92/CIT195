@@ -65,8 +65,7 @@ namespace threadRace
                         MoveIt(ref t5Location);
                 }
             });
-
-            // Wait until any one task finishes (race winner)
+            
             Task.WaitAny(t1, t2, t3, t4, t5);
 
             Console.WriteLine("Race has ended");

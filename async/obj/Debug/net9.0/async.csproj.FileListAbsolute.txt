@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/bin/Debug/net9.0/async
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/bin/Debug/net9.0/async.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/bin/Debug/net9.0/async.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/bin/Debug/net9.0/async.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/bin/Debug/net9.0/async.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/refint/async.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/async.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/async/obj/Debug/net9.0/ref/async.dll
