@@ -1,0 +1,15 @@
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.AssemblyInfoInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.AssemblyInfo.cs
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.csproj.CoreCompileInputs.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.sourcelink.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/bin/Debug/net9.0/ThreadRace
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/bin/Debug/net9.0/ThreadRace.deps.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/bin/Debug/net9.0/ThreadRace.runtimeconfig.json
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/bin/Debug/net9.0/ThreadRace.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/bin/Debug/net9.0/ThreadRace.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/refint/ThreadRace.dll
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.pdb
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ThreadRace.genruntimeconfig.cache
+/Users/ainsleyparkhurst/Documents/GitHub/CIT195/ThreadRace/obj/Debug/net9.0/ref/ThreadRace.dll

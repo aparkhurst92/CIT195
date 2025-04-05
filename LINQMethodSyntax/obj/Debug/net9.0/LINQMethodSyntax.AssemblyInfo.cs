@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQMethodSyntax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622d0dd34acda72c7d17ddeeb4f05f612496a6ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3da3585a1c247462f133ad08e22e644fe995024")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQMethodSyntax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQMethodSyntax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
